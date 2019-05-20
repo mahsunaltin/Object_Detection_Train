@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ham</folder>
+	<filename>3.jpeg</filename>
+	<path>C:\Users\Mahsun ALTIN\Desktop\windows_v1.8.0\ham\3.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>323</ymin>
+			<xmax>983</xmax>
+			<ymax>1425</ymax>
+		</bndbox>
+	</object>
+</annotation>
